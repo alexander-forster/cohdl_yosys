@@ -1,0 +1,7 @@
+/.*
+!.vscode
+!.env
+!.gitignore
+build
+__pycache__
+*.egg-info
